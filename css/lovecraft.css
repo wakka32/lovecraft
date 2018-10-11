@@ -1,0 +1,59 @@
+
+	body {
+		background-color: black;
+	}
+
+    body {
+    	color: red;
+    }
+
+	main {
+		width: 60%;
+		margin: 0 auto;
+	}
+	article {
+		margin-left: 20%;
+		width: 80%;
+	}
+    nav{
+    	float:left;
+    	width: 20%;
+    	padding:2%;
+    	margin top:10%;
+    }
+	a {
+		color:red;
+		text-decoration :none;
+		font-size: 3em;
+	}
+	h1 {
+		font-family: font-family: 'Roboto', sans-serif;
+		font-size: 3em;
+	}
+	h3 {
+		font-size: 8em;
+		line-height: 0.2;
+	}
+	h1,h2, h3 {
+		text-align: center;
+	}
+	p {
+		font-family: 'PT Serif', serif;
+	}
+    blockquote {
+    }
+    img {
+    	float:right;
+    	width:400px;
+    }
+    .signatur {
+    	font-weight: bold;
+    }
+    #kapitel1, #kapitel2 {
+
+    }
+	
+	}
+	blockquote {
+
+	}
